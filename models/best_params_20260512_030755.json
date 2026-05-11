@@ -1,0 +1,12 @@
+{
+    "best_params": {
+        "C": 0.6528947062212385,
+        "penalty": "l1",
+        "class_weight": "balanced"
+    },
+    "best_score": 0.9175454196902597,
+    "metric": "f1_macro",
+    "n_trials": 100,
+    "timestamp": "20260512_030755",
+    "random_state": 42
+}
