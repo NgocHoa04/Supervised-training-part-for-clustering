@@ -4,7 +4,7 @@
 
 ## Overview
 
-In the previous step (Subject 2), unsupervised clustering divided the bank's customers into **4 distinct groups** (Cluster 0, 1, 2, 3) based on behavioural and demographic features. Subject 3 asks: can a supervised model learn to predict these cluster labels, and if so — which features drive that prediction?
+In the previous step, unsupervised clustering divided the bank's customers into **4 distinct groups** (Cluster 0, 1, 2, 3) based on behavioural and demographic features. Now, we need to answer the question: Can a supervised model learn to predict these cluster labels, and if so — which features drive that prediction?
 
 This report answers all four questions in the Subject 3 brief:
 
